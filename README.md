@@ -1,5 +1,6 @@
 # evenOdd
-'http://localhost:8080/job/pipelinescript/'><img src='http://localhost:8080/buildStatus/icon?job=pipelinescript'>
+
+[![Build Status](http://localhost:8080/buildStatus/icon?job=pipelinescript)](http://localhost:8080/job/pipelinescript/)
 
 A Jenkins even/odd playbook from the Jenkins.io documentation
 
