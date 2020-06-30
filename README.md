@@ -1,5 +1,5 @@
 # evenOdd
-<a href='http://localhost:8080/job/pipelinescript/'><img src='http://localhost:8080/buildStatus/icon?job=pipelinescript'></a>
+'http://localhost:8080/job/pipelinescript/'><img src='http://localhost:8080/buildStatus/icon?job=pipelinescript'>
 
 A Jenkins even/odd playbook from the Jenkins.io documentation
 
